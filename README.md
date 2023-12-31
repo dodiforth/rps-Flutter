@@ -9,9 +9,9 @@
 
 ## Attributes
 Vector images used from following attributors : 
-<a href="https://www.flaticon.com/free-icons/scissors" title="scissors icons">Scissors icons created by Cap Cool - Flaticon</a>
-<a href="https://www.flaticon.com/free-icons/rock-paper-scissors" title="rock paper scissors icons">Rock paper scissors icons created by iconading - Flaticon</a>
-<a href="https://www.flaticon.com/free-icons/fist" title="fist icons">Fist icons created by Cuputo - Flaticon</a>
+*<a href="https://www.flaticon.com/free-icons/scissors" title="scissors icons">Scissors icons created by Cap Cool - Flaticon</a>
+*<a href="https://www.flaticon.com/free-icons/rock-paper-scissors" title="rock paper scissors icons">Rock paper scissors icons created by iconading - Flaticon</a>
+*<a href="https://www.flaticon.com/free-icons/fist" title="fist icons">Fist icons created by Cuputo - Flaticon</a>
 
 
 ## Introduction
